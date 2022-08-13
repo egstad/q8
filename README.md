@@ -23,12 +23,3 @@ There are 5 predefined layers on the Q8, which are organized quite poorly IMHO.
 | 4     | Function layer          | Function layer  |
 
 To toggle between Mac and Windows, just flip the binary toggle next to the USB. Slick.
-
-## Macros
-
-| Macro | Function                                   |
-| ----- | ------------------------------------------ |
-| 0     | Mac: Select previous letter (Shift + Left) |
-| 2     | Mac: Select previous line (Shift + Up)     |
-| 3     | Mac: Select next line (Shift + Down)       |
-| 4     | Mac: Select next letter (Shift + Right)    |
